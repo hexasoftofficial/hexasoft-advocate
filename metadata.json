@@ -1,0 +1,6 @@
+{
+  "name": "HexaSoft Advocate – Legal Management Software",
+  "description": "HexaSoft Advocate is a complete legal practice management software for Indian advocates, lawyers and law firms. Manage clients, cases, hearings, documents, billing, payments and reports in one platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
