@@ -108,14 +108,6 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenDemo, onOpenLogin }) => {
           {/* Zone 3: Actions */}
           <div className="hidden md:flex items-center gap-3 shrink-0">
             <button
-              onClick={onOpenLogin}
-              className="px-3.5 py-2 text-xs font-semibold text-slate-700 hover:text-indigo-600 hover:bg-slate-100 rounded-lg transition-colors flex items-center gap-1.5"
-            >
-              <UserCheck className="w-4 h-4 text-slate-500" />
-              <span>Portal Login</span>
-            </button>
-
-            <button
               onClick={() => onOpenDemo()}
               className="px-4 py-2.5 text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 rounded-lg shadow-sm hover:shadow transition-all flex items-center gap-2 group cursor-pointer"
             >
