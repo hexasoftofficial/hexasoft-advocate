@@ -74,7 +74,7 @@ export const IndiaFocusedSection: React.FC<IndiaFocusedSectionProps> = ({ onOpen
           {/* Left Column: Prestigious Indian Law Firm Chamber Photography */}
           <div className="lg:col-span-5 relative rounded-2xl overflow-hidden border border-slate-200 shadow-xl group">
             <img
-              src="/src/assets/images/hero_law_chamber_1793189820897.jpg"
+              src="src\assets\images\hero_law_chamber_1793189820897.jpg"
               alt="Modern Indian Law Chamber and Conference Room"
               referrerPolicy="no-referrer"
               className="w-full h-80 lg:h-full object-cover group-hover:scale-105 transition-transform duration-500"
